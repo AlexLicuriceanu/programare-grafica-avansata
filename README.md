@@ -1,2 +1,1 @@
-# programare-grafica-avansata
- Programare Grafica Avansata si Prelucrare de Imagini (PGAPI) - UPB ACS 2024-2025
+# Programare Grafica Avansata si Prelucrare de Imagini (PGAPI) - UPB ACS 2024-2025
